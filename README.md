@@ -1,17 +1,53 @@
-# 📘 utkarsh1234456.github.io
+# BookIQ – utkarsh1234456.github.io
 
-Welcome to **BookIQ**, an AI-powered book recommendation website hosted at [utkarsh1234456.github.io](https://utkarsh1234456.github.io).
+This is the official repository for the **BookIQ** website, hosted at:
 
-This site provides intelligent book suggestions using IBM Watson Assistant, based on genre, mood, author, and more.
-
----
-
-## 🔧 Features
-
-- 📚 Smart book recommendations by genre, mood, or author
-- 💬 Chatbot powered by IBM Watson Assistant
-- 🎨 Clean, responsive UI built with Tailwind CSS
-- 🌐 Hosted using GitHub Pages
+👉 https://utkarsh1234456.github.io
 
 ---
 
+## About
+
+**BookIQ** is a smart book recommendation website that helps users discover books based on:
+
+- Genre
+- Mood
+- Author preferences
+
+The website features a clean user interface and an embedded AI chatbot powered by **IBM Watson Assistant**.
+
+---
+
+## Features
+
+- 📚 AI-powered book recommendations
+- 💬 Chatbot integration (Watson Assistant)
+- 🌐 Responsive and mobile-friendly layout
+- 🚀 Hosted using GitHub Pages
+
+---
+
+## How to Use
+
+1. Visit the website: [utkarsh1234456.github.io](https://utkarsh1234456.github.io)
+2. Click on “Get Started”
+3. Ask the chatbot for book suggestions by genre, mood, or author
+
+---
+
+## Technologies Used
+
+- HTML + Tailwind CSS
+- JavaScript
+- IBM Watson Assistant
+- GitHub Pages
+
+---
+
+## License
+
+This project is open source and free to use.
+
+---
+
+Made with ❤️ by Utkarsh
