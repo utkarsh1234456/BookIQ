@@ -1,29 +1,41 @@
-# 📚 BookIQ – AI-Powered Book Recommendations
+# 🌐 utkarsh1234456.github.io
 
-Welcome to [utkarsh1234456.github.io](https://utkarsh1234456.github.io/), the homepage for **BookIQ** – an intelligent book recommendation platform powered by IBM Watson Assistant.
+Welcome to **Utkarsh's personal website and project portfolio**, hosted via **GitHub Pages**.  
+This site showcases web projects, creative tools, and learning experiments.
 
-## 🚀 Features
+🔗 **Live Site**: [utkarsh1234456.github.io](https://utkarsh1234456.github.io)
 
-- 🔍 AI chatbot for personalized book suggestions  
-- 📖 Recommendations by genre, author, and mood  
-- 📱 Responsive and modern user interface  
-- 💬 Watson Assistant integration for real-time interaction  
+---
 
-## 🛠️ Technologies Used
+## 🚀 What's Inside
 
-- HTML5 + Tailwind CSS  
-- JavaScript (for Watson Assistant embedding)  
-- IBM Watson Assistant (Chatbot Integration)  
-- Hosted on GitHub Pages  
+- 🎯 Featured projects and apps
+- 💡 Interactive tools and demos
+- 🧠 AI chatbot integrations (e.g., IBM Watson Assistant)
+- 📄 Project documentation
+- 📬 Personal profile or contact section (optional)
 
-## 🤖 Watson Assistant Integration
+---
 
-The chatbot is embedded using the following configuration:
+## 🧰 Tech Stack
 
-```js
-window.watsonAssistantChatOptions = {
-  integrationID: "38230aea-4bf4-4cc8-9ad2-6435d37c58ee",
-  region: "eu-de",
-  serviceInstanceID: "ea42bf7b-c62b-45f4-b20f-5a1eeb72148b",
-  onLoad: async (instance) => { await instance.render(); }
-};
+- **HTML5 + CSS3**
+- **JavaScript / Tailwind CSS**
+- **GitHub Pages** for hosting
+- Optional: IBM Watson, Chatbots, APIs
+
+---
+
+## 🛠 Deployment Details
+
+- Repository must be named `utkarsh1234456.github.io`
+- All files (like `index.html`) go in the root directory
+- GitHub Pages settings:
+  - Go to `Settings > Pages`
+  - Source: `main` branch, `/ (root)`
+  - Wait a few minutes after publishing
+
+---
+
+## 📁 Project Structure (Example)
+
