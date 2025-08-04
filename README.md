@@ -25,3 +25,17 @@ This site showcases web projects, creative tools, and learning experiments.
 - Optional: IBM Watson, Chatbots, APIs
 
 ---
+
+## 🛠 Deployment Details
+
+- Repository must be named `utkarsh1234456.github.io`
+- All files (like `index.html`) go in the root directory
+- GitHub Pages settings:
+  - Go to `Settings > Pages`
+  - Source: `main` branch, `/ (root)`
+  - Wait a few minutes after publishing
+
+---
+
+## 📁 Project Structure (Example)
+
