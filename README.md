@@ -1,41 +1,29 @@
-# 🌐 utkarsh1234456.github.io
+# 📘 BookIQ
 
-Welcome to **Utkarsh's personal website and project portfolio**, hosted via **GitHub Pages**.  
-This site showcases web projects, creative tools, and learning experiments.
+**BookIQ** is a smart and interactive web-based book assistant designed to recommend books based on genre, author, and mood. It features a clean UI, fast interactions, and optional chatbot integration for dynamic conversations.
 
-🔗 **Live Site**: [utkarsh1234456.github.io](https://utkarsh1234456.github.io)
-
----
-
-## 🚀 What's Inside
-
-- 🎯 Featured projects and apps
-- 💡 Interactive tools and demos
-- 🧠 AI chatbot integrations (e.g., IBM Watson Assistant)
-- 📄 Project documentation
-- 📬 Personal profile or contact section (optional)
+🌐 **Live Site**: [utkarsh1234456.github.io/BookIQ](https://utkarsh1234456.github.io/BookIQ/)
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Features
 
-- **HTML5 + CSS3**
-- **JavaScript / Tailwind CSS**
+- 🔍 Search books by genre, mood, or author
+- 💬 AI chatbot (IBM Watson Assistant) for book suggestions
+- 🎯 One-click recommendations by categories
+- 📱 Responsive layout with Tailwind CSS
+- ⚡ Lightweight, fast, and easy to use
+
+---
+
+## 🧠 Technologies Used
+
+- **HTML5** + **Tailwind CSS**
+- **JavaScript**
+- **IBM Watson Assistant** (optional chatbot)
 - **GitHub Pages** for hosting
-- Optional: IBM Watson, Chatbots, APIs
 
 ---
 
-## 🛠 Deployment Details
-
-- Repository must be named `utkarsh1234456.github.io`
-- All files (like `index.html`) go in the root directory
-- GitHub Pages settings:
-  - Go to `Settings > Pages`
-  - Source: `main` branch, `/ (root)`
-  - Wait a few minutes after publishing
-
----
-
-## 📁 Project Structure (Example)
+## 📂 Project Structure
 
